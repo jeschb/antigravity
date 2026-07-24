@@ -6,7 +6,7 @@ date: 2026-07-23
 ---
 
 <p align="center">
-  <img src="https://antigravity.google/assets/image/brand/antigravity_product_lockup_full_color_reverse.png" alt="Antigravity IDE Logo" width="120"/>
+  <img src="https://antigravity.google/assets/image/brand/antigravity_product_lockup_full_color.png" alt="Antigravity IDE Logo" width="240"/>
 </p>
 
 # Antigravity IDE — Cómo abrirlo desde cualquier carpeta en PowerShell
